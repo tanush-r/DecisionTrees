@@ -2,13 +2,13 @@
 ___
 Decision Trees are the trees used to classify objects, based on various attributes.<br>
 
-![image.png](attachment:image.png)<br>
+![image.png](https://github.com/tanush-r/DecisionTrees/blob/main/image.png)<br>
 
 <p>It can be used to solve the Candidate Elimination Problem!</p>
 
 <p>Now, by using only a single tree structure, we cannot reliably predict the class. Therefore, we use random forests.</p><br>
 
-![image-2.png](attachment:image-2.png)
+![image-2.png](https://github.com/tanush-r/DecisionTrees/blob/main/image-2.png)
 
 <br> <p>In a random forests, we randomly generate multiple trees and take the average class of all the predicted classes of each tree, the advantage is that we can more accurately predict the class of the object, as there is a higher randomized factor in predicting the class</p>
 
